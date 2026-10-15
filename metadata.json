@@ -1,0 +1,6 @@
+{
+  "name": "Ranthambore International Academy",
+  "description": "Where Learning Meets Possibility. Premium international school website demo for Ranthambore International Academy in Sawai Madhopur, Rajasthan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
